@@ -12,4 +12,4 @@ Fitur
 sengaja saya tidak memasukkan fitur klaim faucet otomatis, karena faucet token USDT, ETH, BTC sekali klaim cukup untuk banyak transaksi.
 
 ## 🛠️ Instalasi
-hanya penggunaan pribadi.
+YTTA AWIKAWOK
