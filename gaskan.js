@@ -6,7 +6,6 @@ const readline = require("readline").createInterface({
   output: process.stdout
 });
 
-// =============== KONFIGURASI ===============
 const RPC_URL = "https://evmrpc-testnet.0g.ai/";
 const CHAIN_ID = 16601;
 
